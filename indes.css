@@ -38,7 +38,7 @@ html,body{
     overflow: hidden;
     position: absolute;
     height: 100%;
-    width: 100%;
+    width: 0;
     /* background-color: yellow; */
 }
 img{
